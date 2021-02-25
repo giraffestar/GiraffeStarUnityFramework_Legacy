@@ -1,0 +1,9 @@
+{
+    "Entries": [
+        {
+            "IsActive": true,
+            "Key": "ConfigName",
+            "Value": "Dev"
+        }
+    ]
+}

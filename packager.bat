@@ -1,0 +1,2 @@
+echo %CD%
+start cmd.exe /k ""C:\Program Files\Unity\Hub\Editor\2019.3.15f1\Editor\Unity.exe" -projectPath "\TestProject" -exportPackage "Assets\Plugins" %CD%\GiraffeStarUnityFramework.unitypackage -quit"

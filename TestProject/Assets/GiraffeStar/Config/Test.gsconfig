@@ -1,0 +1,29 @@
+{
+    "Entries": [
+        {
+            "IsActive": true,
+            "Key": "ConfigName",
+            "Value": "Test"
+        },
+        {
+            "IsActive": true,
+            "Key": "BoolTest",
+            "Value": "True"
+        },
+        {
+            "IsActive": true,
+            "Key": "IntTest",
+            "Value": "100"
+        },
+        {
+            "IsActive": true,
+            "Key": "FloatTest",
+            "Value": "123.456"
+        },
+        {
+            "IsActive": true,
+            "Key": "StringTest",
+            "Value": "Success"
+        }
+    ]
+}

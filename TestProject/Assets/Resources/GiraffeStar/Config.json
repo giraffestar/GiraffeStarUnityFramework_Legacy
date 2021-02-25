@@ -1,0 +1,16 @@
+{
+    "Keys": [
+        "ConfigName",
+        "BoolTest",
+        "IntTest",
+        "FloatTest",
+        "StringTest"
+    ],
+    "Values": [
+        "Test",
+        "True",
+        "100",
+        "123.456",
+        "Success"
+    ]
+}
